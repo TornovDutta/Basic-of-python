@@ -1,0 +1,11 @@
+list=[1,5,3,90,3]
+print(list)
+list.sort()
+print(list)
+list.reverse()
+print(list)
+list.append(13)
+print(list)
+list.remove(13)
+print(list)
+print(list[4])
